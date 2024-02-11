@@ -1,7 +1,5 @@
-# "Yebo" One Page Website Template
-
-"Yebo" is a one page website template made by [Peter Finlan](http://peterfinlan.com/).
-
+# AOD Webite
+[Open](https://arbaz93.github.io/AOD-bikes/)
 [Download](https://dribbble.com/shots/1539580-Freebie-Yebo-Flat-HTML5-CSS3-Template)
 
 [Demo](https://dribbble.com/shots/1539580-Freebie-Yebo-Flat-HTML5-CSS3-Template)
